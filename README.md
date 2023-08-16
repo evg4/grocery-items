@@ -5,7 +5,7 @@ This was completed as part of the Codecademy Front-End Engineer path and uses cr
 ## Features
 This is a React app built using create-react-app. It uses JavaScript, JSX and CSS.
 ## How to use
-See below.
+The site can be viewed at https://evg4.github.io/grocery-items/. For more details, see below.
 ## Technologies
 JavaScript, JSX and CSS.
 
