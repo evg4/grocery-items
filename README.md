@@ -1,3 +1,14 @@
+## Project Title
+Grocery items
+## Description
+This was completed as part of the Codecademy Front-End Engineer path and uses create-react-app (see more info below). The purpose of this was to practise using props. I also added some extra features, such as a button to calculate total price. I suspect there is a better way to do this, as my method of using a switch statement to iterate through an array of the items in the basket seems inefficient because I have to manually add new items and their prices to the switch statement whenever I add a new grocery item button. However at this stage I couldn't figure out how to access the price props from each grocery item. This is something I'd like to come back to in the future.
+## Features
+This is a React app built using create-react-app. It uses JavaScript, JSX and CSS.
+## How to use
+See below.
+## Technologies
+JavaScript, JSX and CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
